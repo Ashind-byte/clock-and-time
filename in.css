@@ -1,0 +1,14 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 40px;
+    padding: 20px;
+    background-color: hotpink;
+    max-width: fit-content;
+}
+.crd{
+    padding: 50px;
+    background-color: cornflowerblue;
+    border: blueviolet solid;
+}
